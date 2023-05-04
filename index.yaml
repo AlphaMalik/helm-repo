@@ -6,8 +6,8 @@ entries:
     digest: b0afa71f2e0c865ce8bfe439a8cbad0b57ea7003d0c37f46a5ed98236316cc52
     name: quarkus-helloworld
     urls:
-    - https://alphamalik.github.io/helm-repo/quarkus-helloworld-1.1.tgz
-    version: "1.1"
+    - https://alphamalik.github.io/helm-repo/quarkus-helloworld-1.2.tgz
+    version: "1.2"
   test-helm-chart:
   - apiVersion: v2
     appVersion: 1.16.0

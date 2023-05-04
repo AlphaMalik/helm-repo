@@ -2,16 +2,16 @@ apiVersion: v1
 entries:
   quarkus-helloworld:
   - apiVersion: v2
-    created: "2023-05-04T10:48:47.68486619-04:00"
-    digest: ef2726f92f3c1ee4f19573c8fe3d7e1ee3d4f0e5068100a55df710ec915200db
+    created: "2023-05-04T12:24:30.644610562-04:00"
+    digest: b0afa71f2e0c865ce8bfe439a8cbad0b57ea7003d0c37f46a5ed98236316cc52
     name: quarkus-helloworld
     urls:
-    - https://alphamalik.github.io/helm-repo/quarkus-helloworld-1.0.0-SNAPSHOT.tgz
-    version: 1.0.0-SNAPSHOT
+    - https://alphamalik.github.io/helm-repo/quarkus-helloworld-1.1.tgz
+    version: "1.1"
   test-helm-chart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-05-04T10:48:47.719918779-04:00"
+    created: "2023-05-04T12:24:30.686122187-04:00"
     description: A Helm chart for Kubernetes
     digest: 09e4e5a187d3ac7d3e84e63f3c26909e2a1fc21dc528f10f6f55a0d4d0648286
     name: test-helm-chart
@@ -19,4 +19,4 @@ entries:
     urls:
     - https://alphamalik.github.io/helm-repo/test-helm-chart-0.1.0.tgz
     version: 0.1.0
-generated: "2023-05-04T10:48:47.657427416-04:00"
+generated: "2023-05-04T12:24:30.619847177-04:00"
